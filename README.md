@@ -1,2 +1,4 @@
 # Gerunds-Verbs-relationship
 A Statistical Analysis of the Syntactic Dependencies between Governing Verbs and their Argument Gerunds
+
+This research is an investigation of the syntactic context within which gerunds of various types may occur. More specifically, this project uses statistical analysis to understand the dependency relation between controlling verbs and their argument gerunds. The Python library, Matplotlib, was used in various stages of the analysis to visualize the frequency with which a certain verb type co-occurs with a certain gerund type in each syntactic context.  Dependency parsing was used to identify instances of verbs that have governing relations on the dependent gerunds. Given the nature of the data frame, it was predicted that Verbs of Predicative Complements govern most types of gerunds.
